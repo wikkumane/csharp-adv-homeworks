@@ -1,0 +1,15 @@
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\obj\Debug\net6.0\Cas2-Homework.csproj.AssemblyReference.cache
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\obj\Debug\net6.0\Cas2-Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\obj\Debug\net6.0\Cas2-Homework.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\obj\Debug\net6.0\Cas2-Homework.AssemblyInfo.cs
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\obj\Debug\net6.0\Cas2-Homework.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\bin\Debug\net6.0\Cas2-Homework.exe
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\bin\Debug\net6.0\Cas2-Homework.deps.json
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\bin\Debug\net6.0\Cas2-Homework.runtimeconfig.json
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\bin\Debug\net6.0\Cas2-Homework.dll
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\bin\Debug\net6.0\Cas2-Homework.pdb
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\obj\Debug\net6.0\Cas2-Homework.dll
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\obj\Debug\net6.0\refint\Cas2-Homework.dll
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\obj\Debug\net6.0\Cas2-Homework.pdb
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\obj\Debug\net6.0\Cas2-Homework.genruntimeconfig.cache
+C:\Users\Luka\Desktop\csharp-adv-homeworks\Cas2-Homework\Cas2-Homework\obj\Debug\net6.0\ref\Cas2-Homework.dll
