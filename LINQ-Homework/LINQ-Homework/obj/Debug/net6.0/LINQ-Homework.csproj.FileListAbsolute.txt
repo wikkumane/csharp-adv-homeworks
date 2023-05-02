@@ -1,0 +1,15 @@
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\bin\Debug\net6.0\LINQ-Homework.exe
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\bin\Debug\net6.0\LINQ-Homework.deps.json
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\bin\Debug\net6.0\LINQ-Homework.runtimeconfig.json
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\bin\Debug\net6.0\LINQ-Homework.dll
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\bin\Debug\net6.0\LINQ-Homework.pdb
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\obj\Debug\net6.0\LINQ-Homework.csproj.AssemblyReference.cache
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\obj\Debug\net6.0\LINQ-Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\obj\Debug\net6.0\LINQ-Homework.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\obj\Debug\net6.0\LINQ-Homework.AssemblyInfo.cs
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\obj\Debug\net6.0\LINQ-Homework.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\obj\Debug\net6.0\LINQ-Homework.dll
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\obj\Debug\net6.0\refint\LINQ-Homework.dll
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\obj\Debug\net6.0\LINQ-Homework.pdb
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\obj\Debug\net6.0\LINQ-Homework.genruntimeconfig.cache
+C:\Users\Luka\Desktop\csharp-adv-homeworks\LINQ-Homework\LINQ-Homework\obj\Debug\net6.0\ref\LINQ-Homework.dll

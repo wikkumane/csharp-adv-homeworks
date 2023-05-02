@@ -12,4 +12,5 @@ namespace LINQ_Homework.Database
         public static List<Person> People = new List<Person>();
         public static List<Dog> Dogs = new List<Dog>();
     }
+  
 }
